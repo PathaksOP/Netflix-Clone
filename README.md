@@ -12,9 +12,7 @@ View the project here:
 ## Preview
 
 <img width="1880" height="969" alt="image" src="https://github.com/user-attachments/assets/07b1a350-8991-4ac5-85b6-3f3e45f28a7f" />
-<hr>
-<img width="1885" height="969" alt="image" src="https://github.com/user-attachments/assets/e73f9e97-8653-40c4-9ed4-5257d8378fef" />
-<hr>
+<hr><img width="1885" height="969" alt="image" src="https://github.com/user-attachments/assets/e73f9e97-8653-40c4-9ed4-5257d8378fef" /><hr><img width="1884" height="971" alt="image" src="https://github.com/user-attachments/assets/b0996b0e-abfc-4d9e-92a3-e9a0abb3b9ce" /><hr><img width="1884" height="973" alt="image" src="https://github.com/user-attachments/assets/01134eac-e693-405f-80ae-b8d49a38faa2" /><hr>
 
 ## Overview
 
